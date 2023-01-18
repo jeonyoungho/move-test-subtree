@@ -3,3 +3,4 @@
 3 - commit
 4 - commit from 'move-test-subtree' repo
 5 - commit from 'move-test-subtree' repo
+6 - commit from 'move-test-subtree' repo
